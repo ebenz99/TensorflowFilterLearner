@@ -1,3 +1,4 @@
+# Ethan Bensman
 #use sepia as rgb(177,104,32)
 
 import numpy as np
